@@ -1,8 +1,1 @@
 React Integration Testing
-
-
-
-
-
-
-
